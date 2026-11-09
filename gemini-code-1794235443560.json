@@ -1,0 +1,11 @@
+{
+  "name": "president-roleplay-game",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "openai": "^4.50.0"
+  }
+}
